@@ -2,7 +2,7 @@
 This is a program written in 'C++' to make the order management easy and avoid mistakes which occur in the traditional order management. Here for an example, I have considered a 'Pizza Parlour' in which we will implement this program which takes 'n' number of orders, displays orders which are received, serve the received order and show the amount to be paid. I have used a circular queue type abstract data structure which acts on first in first out basis to simulate the system.
 
 ## Getting Started
-
+After downloading the following .txt file you will need to copy it into a IDE to get it running.
 
 
 ### Prerequisites
