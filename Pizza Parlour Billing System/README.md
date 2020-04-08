@@ -6,7 +6,15 @@ After downloading the following .txt file you will need to copy it into a IDE to
 
 
 ### Prerequisites
-
+Firstly you will need to do some basic checkup. Make sure that your PC / Laptop meets these basic requirements:
+1. Intel core i3
+2. 2 GB RAM
+3. 500 GB HDD
+4. GCC or G++ compiler
+5. IDE
+   * [Code::Blocks 17.12](http://www.codeblocks.org/downloads)
+   * [CodeLite 13.0.0](https://downloads.codelite.org/)
+   * [JetBrains CLion 2019.3](https://www.jetbrains.com/clion/download/)
    
 ## Code
 ```c++
