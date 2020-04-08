@@ -1,7 +1,7 @@
 # Pizza Parlour Billing System
 
 ## Getting Started
-After downloading the following .txt file you will need to copy it into a IDE to get it running.
+
 
 
 ### Prerequisites
